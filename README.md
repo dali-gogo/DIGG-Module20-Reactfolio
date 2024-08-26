@@ -5,8 +5,8 @@ Dalia Gomez - Module 20 Challenge: React, Portfolio (Reactfolio).
 The purpose of this challenge was to create a portfolio using React, and to deploy it to Netlify. 
 
 ## Links
-- URL of the GitHub repository that contains the code:
-- URL of the deployed application:
+- URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module20-Reactfolio
+- URL of the deployed application: https://stirring-pegasus-6dd4e0.netlify.app/
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications
